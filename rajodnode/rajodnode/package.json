@@ -1,0 +1,10 @@
+{
+  "name": "rajodnode",
+  "version": "0.0.0",
+  "description": "rajodnode",
+  "main": "server.js",
+  "author": {
+    "name": "rajkr",
+    "email": ""
+  }
+}
